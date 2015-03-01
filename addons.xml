@@ -871,7 +871,7 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
 </addon>
 
 <addon
-id="skin.eminence.HE"
+id="skin.eminence"
 version="1.2.5"
 name="Eminence"
 provider-name="jurialmunkey">
@@ -892,8 +892,8 @@ effectslowdown="1">
 </extension>
 <extension point="xbmc.addon.metadata">
 <platform>all</platform>
-<summary lang="en">Created by jurialmunkey</summary>
-<description lang="en">Eminence is a skin that seeks simplicity, functionality, and customisability with a modern look</description>
+<summary lang="en">Hebrew</summary>
+<description lang="en">Hebrew Skin</description>
 </extension>
 </addon>
 
