@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.movieshd" name="MoviesHD Addon Repository" version="1.0.1" provider-name="MoviesHD MetalKettle">
-	<extension point="xbmc.addon.repository" name="MoviesHD Addon Repository">
-		<info compressed="false">http://raw.github.com/metalkettle/MoviesHD/master/addons.xml</info>
-		<checksum>http://raw.github.com/metalkettle/MoviesHD/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/metalkettle/MoviesHD/master/zips</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary></summary>
-		<description></description>
-		<platform>all</platform>
-	</extension>
-</addon>
 <addon id="Ninbora.Addons"
        name="Ninbora Addons"
        version="1.0.18"
@@ -36,9 +24,9 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install lambda's Addons</summary>
-		<summary lang="el">Εγκαταστήστε τα πρόσθετα του lambda</summary>
+		<summary lang="el">???????????? ?? ???????? ??? lambda</summary>
 		<description lang="en">Download and install addons by lambda</description>
-		<description lang="el">Λήψη και εγκατάσταση προσθέτων από τον lambda</description>
+		<description lang="el">???? ??? ??????????? ????????? ??? ??? lambda</description>
 		<platform>all</platform>
 	</extension>
 </addon>
@@ -79,22 +67,22 @@
         <extension point="xbmc.addon.metadata">
                 <summary>Install add-ons from the SuperRepo.org  Repositoriesincladult Repository</summary>
                 <summary lang="nl">Installeer add-ons uit de SuperRepo.org  Repositoriesincladult Repository</summary>
-                <summary lang="cz">Inštalácia add-ons zo SuperRepo.org  Repositoriesincladult Repozitár</summary>
+                <summary lang="cz">In?tal?cia add-ons zo SuperRepo.org  Repositoriesincladult Repozit?r</summary>
                 <summary lang="de">Installation von Addons aus dem SuperRepo.org  Repositoriesincladult Repository</summary>
-                <summary lang="pt"> Instale add-ons do SuperRepo.org  Repositoriesincladult  Repositório </summary>
-                <summary lang="br"> Instale add-ons do SuperRepo.org  Repositoriesincladult  Repositório </summary>
+                <summary lang="pt"> Instale add-ons do SuperRepo.org  Repositoriesincladult  Reposit?rio </summary>
+                <summary lang="br"> Instale add-ons do SuperRepo.org  Repositoriesincladult  Reposit?rio </summary>
                 <description>Download and install add-ons in the category " Repositoriesincladult" from the SuperRepo.org addon repository.[CR][CR]If you find a broken or not working addon or you would like to include another one, please have a look at http://superrepo.org/[CR][CR]The repository is maintained by the XBMC community using the SuperRepo Wiki and our generator fetches addons from multiple sources. Therefore SuperRepo accepts no responsibility for this service.[CR][CR]The eXtended Reposity Generator is developed by Bart Otten[CR][CR]</description>
                 <description lang="nl">Download and installeer add-ons in de categorie " Repositoriesincladult" uit de SuperRepo.org addon repository.[CR][CR]Als u een niet werkende addon vindt of u wilt een extra addon toevoegen, kijk dan op http://superrepo.org/[CR][CR]De repository wordt via de SuperRepo Wiki onderhouden door de XBMC gemeenschap en de generator verzamelt addons van verschillende bronnen. Daarom accepteert SuperRepo geen enkele verantwoordelijkheid voor de ingevoegde addons.[CR][CR]De eXtended Reposity Generator is ontwikkeld door Bart Otten[CR][CR]</description>
-                <description lang="cz">Preber a inštaluj add-ons do kategórie " Repositoriesincladult" z SuperRepo.org addon repozitár.[CR][CR]Ak si našiel add-on ktorý je poškodený alebo nefunkčný, alebo chceš pridať nový addon, potom prosím pozri na http://superrepo.org/[CR][CR]Repozitár je udržiavaný komunitou XBMC a za pomoci SuperRepo Wiki, a tento preberá addons z rôznych zdrojov. Vzhľadom na to, SuperRepo nenesie žiadnu zodpovednosť za služby poskytované týmito addons.[CR][CR]Rozšírený repozitár vyvinul Bart Otten[CR][CR]</description>    
-                <description lang="de">Lade und installiere Addons der Kategorie " Repositoriesincladult" aus dem SuperRepo.org Addon Repository.[CR][CR]Möchtest du ein fehlerhaftes Addon melden oder ein neues Addon vorschlagen, kannst du dies über unsere Webseite http://superrepo.org tun.[CR][CR]Das Repository wird mit Hilfe des SuperRepo Wiki durch die XBMC Community gepflegt und durch unseren Generator aus mehreren Quellen zusammengestellt. Daher übernimmt SuperRepo keinerlei Verantwortung für diesen Service.[CR][CR]Der "eXtended Reposity Generator" wird durch Bart Otten entwickelt.[CR][CR]</description>
-                <description lang="pt"> Baixe e instale o add-ons na categoria " Repositoriesincladult" do Repositório SuperRepo.org. [CR] [CR] Se você encontrar um addon quebrado ou não funcionando, ou você gostaria de incluir um outro, por favor visite http://superrepo.org/ [CR] [CR]O repositório é mantida pela comunidade do XBMC usando o Wiki do SuperRepo e o nosso gerador de busca de addons múltiplas fontes. Portanto SuperRepo não aceita qualquer responsabilidade por esse serviço.[CR][CR]O Gerador Reposity eXtended é desenvolvido por Bart Otten[CR][CR] </description> 
-                <description lang="br"> Baixe e instale o add-ons na categoria " Repositoriesincladult" do Repositório SuperRepo.org. [CR] [CR] Se você encontrar um addon quebrado ou não funcionando, ou você gostaria de incluir um outro, por favor visite http://superrepo.org/ [CR][CR]O repositório é mantida pela comunidade do XBMC usando o Wiki do SuperRepo e o nosso gerador de busca de addons múltiplas fontes. Portanto SuperRepo não aceita qualquer responsabilidade por esse serviço.[CR][CR]O Gerador Reposity eXtended é desenvolvido por Bart Otten[CR][CR]</description> 
+                <description lang="cz">Preber a in?taluj add-ons do kateg?rie " Repositoriesincladult" z SuperRepo.org addon repozit?r.[CR][CR]Ak si na?iel add-on ktor? je po?koden? alebo nefunk?n?, alebo chce? prida? nov? addon, potom pros?m pozri na http://superrepo.org/[CR][CR]Repozit?r je udr?iavan? komunitou XBMC a za pomoci SuperRepo Wiki, a tento preber? addons z r?znych zdrojov. Vzh?adom na to, SuperRepo nenesie ?iadnu zodpovednos? za slu?by poskytovan? t?mito addons.[CR][CR]Roz??ren? repozit?r vyvinul Bart Otten[CR][CR]</description>    
+                <description lang="de">Lade und installiere Addons der Kategorie " Repositoriesincladult" aus dem SuperRepo.org Addon Repository.[CR][CR]M?chtest du ein fehlerhaftes Addon melden oder ein neues Addon vorschlagen, kannst du dies ?ber unsere Webseite http://superrepo.org tun.[CR][CR]Das Repository wird mit Hilfe des SuperRepo Wiki durch die XBMC Community gepflegt und durch unseren Generator aus mehreren Quellen zusammengestellt. Daher ?bernimmt SuperRepo keinerlei Verantwortung f?r diesen Service.[CR][CR]Der "eXtended Reposity Generator" wird durch Bart Otten entwickelt.[CR][CR]</description>
+                <description lang="pt"> Baixe e instale o add-ons na categoria " Repositoriesincladult" do Reposit?rio SuperRepo.org. [CR] [CR] Se voc? encontrar um addon quebrado ou n?o funcionando, ou voc? gostaria de incluir um outro, por favor visite http://superrepo.org/ [CR] [CR]O reposit?rio ? mantida pela comunidade do XBMC usando o Wiki do SuperRepo e o nosso gerador de busca de addons m?ltiplas fontes. Portanto SuperRepo n?o aceita qualquer responsabilidade por esse servi?o.[CR][CR]O Gerador Reposity eXtended ? desenvolvido por Bart Otten[CR][CR] </description> 
+                <description lang="br"> Baixe e instale o add-ons na categoria " Repositoriesincladult" do Reposit?rio SuperRepo.org. [CR] [CR] Se voc? encontrar um addon quebrado ou n?o funcionando, ou voc? gostaria de incluir um outro, por favor visite http://superrepo.org/ [CR][CR]O reposit?rio ? mantida pela comunidade do XBMC usando o Wiki do SuperRepo e o nosso gerador de busca de addons m?ltiplas fontes. Portanto SuperRepo n?o aceita qualquer responsabilidade por esse servi?o.[CR][CR]O Gerador Reposity eXtended ? desenvolvido por Bart Otten[CR][CR]</description> 
                 <disclaimer>The repository is maintained by the XBMC community and our generator fetches addons from multiple sources. Therefore SuperRepo accepts no responsibility for included addons.[CR]</disclaimer>
                 <disclaimer lang="nl">De repository wordt onderhouden door de XBMC gemeenschap en de generator verzamelt addons van verschillende bronnen. Daarom accepteert SuperRepo geen enkele verantwoordelijkheid voor de ingevoegde addons.[CR]</disclaimer>
-                <disclaimer lang="cz">Repozitár je udržiavaný komunitou XBMC a za pomoci SuperRepo Wiki, a tento preberá addons z rôznych zdrojov. Vzhľadom na to, SuperRepo nenesie žiadnu zodpovednosť za služby poskytované týmito addons.[CR]</disclaimer>
-                <disclaimer lang="de">Das Repository wird durch die XBMC Community gepflegt und durch unseren Generator aus mehreren Quellen zusammengestellt. Daher übernimmt SuperRepo keinerlei Verantwortung für die enthaltenen Addons.[CR]</disclaimer>
-                <disclaimer lang="pt"> O repositório é mantido pela comunidade comunidade do XBMC e o nosso gerador de busca de addons de múltiplas fontes. Portanto SuperRepo aceita não se responsabiliza por addons incluídos.[CR]</disclaimer>
-                <disclaimer lang="br"> O repositório é mantido pela comunidade comunidade do XBMC e o nosso gerador de busca de addons de múltiplas fontes. Portanto SuperRepo aceita não se responsabiliza por addons incluídos.[CR]</disclaimer>
+                <disclaimer lang="cz">Repozit?r je udr?iavan? komunitou XBMC a za pomoci SuperRepo Wiki, a tento preber? addons z r?znych zdrojov. Vzh?adom na to, SuperRepo nenesie ?iadnu zodpovednos? za slu?by poskytovan? t?mito addons.[CR]</disclaimer>
+                <disclaimer lang="de">Das Repository wird durch die XBMC Community gepflegt und durch unseren Generator aus mehreren Quellen zusammengestellt. Daher ?bernimmt SuperRepo keinerlei Verantwortung f?r die enthaltenen Addons.[CR]</disclaimer>
+                <disclaimer lang="pt"> O reposit?rio ? mantido pela comunidade comunidade do XBMC e o nosso gerador de busca de addons de m?ltiplas fontes. Portanto SuperRepo aceita n?o se responsabiliza por addons inclu?dos.[CR]</disclaimer>
+                <disclaimer lang="br"> O reposit?rio ? mantido pela comunidade comunidade do XBMC e o nosso gerador de busca de addons de m?ltiplas fontes. Portanto SuperRepo aceita n?o se responsabiliza por addons inclu?dos.[CR]</disclaimer>
                 <platform>all</platform>
                 <website>http://superrepo.org/</website>
         </extension>   
@@ -488,5 +476,423 @@ http://www.hometheater.co.il</description>
     </extension>
 
 </addon>
+<addon id="plugin.audio.boilerroom" name="Boiler Room" version="1.0.8" provider-name="MetalKettle">
+  <requires>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
 
+<addon id="plugin.audio.housemixes" name="House Mixes" version="1.1.4" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.audio.spreaker" name="Spreaker" version="1.0.4" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.audio.televisiontunes" name="Themes" version="0.0.8" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Browse TelevisionTunes.com</summary>
+    <description lang="en">Listen to TV Theme music and songs from different television shows</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.program.configinstaller" name="ProZone" version="1.0.2" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.program.myip" name="My IP" version="1.0.3" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.program.oepia" name="PIA for [COLOR grey]open[/COLOR][COLOR blue]elec[/COLOR]" version="1.0.5" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Setup Private Internet Access on OpenELEC</summary>
+    <description lang="en">Setup Private Internet Access on OpenELEC.  This will only work on OpenELEC and you need an account at http://www.privateinternetaccess.com/</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.aaastream" name=".[COLOR blue]AAA Live TV[/COLOR]" version="1.0.7" provider-name="AAA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">AAA Live TV - downloaded for free from:
+http://aaastream.com</summary>
+    <description lang="en">AAA Live TV - downloaded for free from:
+http://aaastream.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.aswizard" name="..DroidSticks Wizard" version="2.0.3" provider-name="Droidsticks / MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">DroidSticks Wizard</summary>
+    <description lang="en">Easy Install With DroidSticks XBMC Wizard</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.bigbuckbunny" name="Big Buck Bunny" version="1.0.1" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Watch all episode of Family Guy from familygutdirect.com</summary>
+    <description lang="en">Watch all episode of Family Guy from familygutdirect.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.DSVideos" name="..DroidSticks Help Centre" version="1.0.5" provider-name="Droidsticks / MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.erotik" name="Erotik (XXX)" version="1.0.12" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="1.1.0"/>
+    <import addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">24-7 Streaming of various tv shows or show types</summary>
+    <description lang="en">Some of the streams are poor quality, be warned :)</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.Halow"
+       name="HALOW LIVE"
+       version="4.4"
+       provider-name="Halow">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+      <summary>Halow TV</summary>
+    <description>[COLOR red]Free Halow TV Live is free for all containing different live channels from different countries free for the whole world.[/COLOR]</description>
+    <platform>all</platform>
+  <license> Halow TV Public License. Version 3, 1 juni 2015</license>
+    <website>https://github.com/HalowTVy</website>
+    <source>https://github.com/HalowTV</source>
+    <forum>http://forum.kodi.tv/showthread.php?tid=215845</forum>
+  </extension>
+</addon>
+
+<addon id="plugin.video.highlights" name="Football Highlights" version="1.0.0" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.HQZone"
+       name="HQ Zone Live Streams"
+       version="1.1.15"
+       provider-name="MetalKettle / mFuk">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="1.1.0"/>
+	<import addon="script.module.beautifulsoup"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">HQ Zone</summary>
+    <description lang="en">HQ Zone Live streams, Video On Demand, PPV + so much more, visit HQZone.tv to learn more. Don´t forget to follow us on Twitter @HQZoneTV.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.learningzone" name="Learning Zone" version="1.0.1" provider-name="MetalKettle">
+  <requires>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"> </summary>
+    <description lang="en">Welcome to the worlds largest collection of computer and technology related tutorials on XBMC/KODI</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mksports" name="MK Sports" version="1.0.2" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.movieshd" name="Movies HD" version="1.1.22" provider-name="MoviesHD MetalKettle">
+  <requires>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+    <import addon="repository.movieshd"/>
+    <import addon="repository.metalkettle"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.onlinemovies" name="Online Movies Pro" version="1.0.12" provider-name="MetalKettle">
+  <requires>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.pythontut" name="Python Tutorial Videos" version="1.0.2" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"> </summary>
+    <description lang="en"> Learn Python using these easy to follow videos from http://buckysroom.org/ </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.RobinHood-PPL-List" name="RobinHood-People List" version="1.0.1" provider-name="Husham.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">RobinHood People Lists - downloaded for free from:
+http://www.husham.com</summary>
+    <description lang="en">RobinHood-People List - downloaded for free from:
+http://www.husham.com
+Don't be lazy Add Create and add your list to the group to be shared with everyone</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.spacetelescope" name="Space Telescope" version="0.0.5" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Videos and news releases from the Hubble Space Telescope project</summary>
+    <description lang="en">Videos and news releases from the Hubble Space Telescope project</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.TubTub" name="TubTub" version="1.0.0" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">24-7 Streaming of various tv shows or show types</summary>
+    <description lang="en">Some of the streams are poor quality, be warned :)</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.xmovies8" name="XMovies8" version="1.0.3" provider-name="MetalKettle">
+  <requires>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+    <import addon="repository.movieshd"/>
+    <import addon="repository.metalkettle"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="1.4.3" provider-name="MetalKettle">
+	<extension point="xbmc.addon.repository" name="MetalKettles Addon Repository">
+		<info compressed="false">http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install my Addons</summary>
+		<description>Download and install addons from MetalKettle</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.movieshd" name="MoviesHD Addon Repository" version="1.0.1" provider-name="MoviesHD MetalKettle">
+	<extension point="xbmc.addon.repository" name="MoviesHD Addon Repository">
+		<info compressed="false">http://raw.github.com/metalkettle/MoviesHD/master/addons.xml</info>
+		<checksum>http://raw.github.com/metalkettle/MoviesHD/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/metalkettle/MoviesHD/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
 </addons>
