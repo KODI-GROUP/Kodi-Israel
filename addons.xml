@@ -870,7 +870,7 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
   </extension>
 </addon>
 
-<addon id="skin.eminence.HE"  version="1.0.0"  name="Eminence HEB"  provider-name="jurialmunkey">
+<addon id="skin.eminence.HE"  version="1.0.0"  name="Eminence HEB"  provider-name="KODI-GROUP">
     <requires>
         <import addon="xbmc.gui" version="5.3.0"/>
         <import addon="service.skin.widgets" version="0.0.29"/>
