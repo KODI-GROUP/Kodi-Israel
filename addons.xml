@@ -871,9 +871,9 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
 </addon>
 
 <addon
-id="skin.eminence"
+id="skin.eminence.HE"
 version="1.2.5"
-name="Eminence"
+name="Eminence He"
 provider-name="jurialmunkey">
 <requires>
 <import addon="xbmc.gui" version="5.3.0"/>
