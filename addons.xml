@@ -871,7 +871,7 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
 </addon>
 
 <addon
-    id="skin.eminence-HE"
+    id="skin.eminence.HE"
     version="1.0.0"
     name="Eminence HEB"
     provider-name="jurialmunkey">
