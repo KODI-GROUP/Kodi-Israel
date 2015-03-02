@@ -870,31 +870,10 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
   </extension>
 </addon>
 
-<addon id="skin.eminence.HE"  version="1.0.0"  name="Eminence HEB"  provider-name="KODI-GROUP">
-    <requires>
-        <import addon="xbmc.gui" version="5.3.0"/>
-        <import addon="service.skin.widgets" version="0.0.29"/>
-        <import addon="service.library.data.provider" version="0.0.7"/>
-        <import addon="script.favourites" version="6.0.1"/>
-        <import addon="script.globalsearch" version="3.0.4"/>
-        <import addon="script.eminencefunctions" version="0.0.1"/>
-    </requires>
-    <extension   point="xbmc.gui.skin"   defaultthemename="textures.xbt"   debugging="false"    effectslowdown="1">
-        <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary lang="en">Created by jurialmunkey</summary>
-        <description lang="en">Eminence is a skin that seeks simplicity, functionality, and customisability with a modern look</description>
-    </extension>
-</addon>
-
-
-<addon id="repository.EminenceHEB" name="Eminence HEB" version="1.0.0" provider-name="KODI-GROUP">
+<addon id="skin.eminence.elad_guy.heb" name="Eminence HEB" version="1.0.0" provider-name="KODI-GROUP">
 	<extension point="xbmc.gui.skin" name="Eminence HEB">
-		<info compressed="false">https://raw.githubusercontent.com/KODI-GROUP/skin.eminence.elad_guy.heb/master/addon.xml</info>
+		<info compressed="true">https://raw.githubusercontent.com/KODI-GROUP/skin.eminence.elad_guy.heb/master/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/KODI-GROUP/skin.eminence.elad_guy.heb/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/KODI-GROUP/skin.eminence.elad_guy.heb/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install skin.eminence.HE</summary>
