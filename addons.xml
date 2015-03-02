@@ -891,7 +891,7 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
 
 
 <addon id="repository.EminenceHEB" name="Eminence HEB" version="1.0.0" provider-name="KODI-GROUP">
-	<extension point="xbmc.addon.repository" name="Eminence HEB">
+	<extension point="xbmc.gui.skin" name="Eminence HEB">
 		<info compressed="false">https://raw.githubusercontent.com/KODI-GROUP/skin.eminence.elad_guy.heb/master/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/KODI-GROUP/skin.eminence.elad_guy.heb/master/addons.xml.md5</checksum>
 		<datadir zip="false">http://raw.github.com/KODI-GROUP/skin.eminence.elad_guy.heb/master</datadir>
