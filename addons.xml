@@ -870,6 +870,33 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
   </extension>
 </addon>
 
+<addon
+    id="he.skin.eminence"
+    version="1.0.0"
+    name="Eminence Hebrew"
+    provider-name="Kodi-Israel">
+    <requires>
+        <import addon="xbmc.gui" version="5.3.0"/>
+        <import addon="service.skin.widgets" version="0.0.29"/>
+        <import addon="service.library.data.provider" version="0.0.7"/>
+        <import addon="script.favourites" version="6.0.1"/>
+        <import addon="script.globalsearch" version="3.0.4"/>
+        <import addon="script.eminencefunctions" version="0.0.1"/>
+    </requires>
+    <extension
+    point="xbmc.gui.skin"
+    defaultthemename="textures.xbt"
+    debugging="false"
+    effectslowdown="1">
+        <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Created by Guy And Elad</summary>
+        <description lang="en">Eminence is a skin that seeks simplicity, functionality, and customisability with a modern look</description>
+    </extension>
+</addon>
+
 <addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="1.4.3" provider-name="MetalKettle">
 	<extension point="xbmc.addon.repository" name="MetalKettles Addon Repository">
 		<info compressed="false">http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml</info>
@@ -882,6 +909,7 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
 		<platform>all</platform>
 	</extension>
 </addon>
+
 
 <addon id="repository.movieshd" name="MoviesHD Addon Repository" version="1.0.1" provider-name="MoviesHD MetalKettle">
 	<extension point="xbmc.addon.repository" name="MoviesHD Addon Repository">
