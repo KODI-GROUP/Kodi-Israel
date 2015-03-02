@@ -870,18 +870,6 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
   </extension>
 </addon>
 
-<addon id="skin.eminence.elad_guy.heb" name="Eminence HEB" version="1.0.0" provider-name="KODI-GROUP">
-	<extension point="xbmc.gui.skin" name="Eminence HEB">
-		<info compressed="true">https://raw.githubusercontent.com/KODI-GROUP/skin.eminence.elad_guy.heb/master/addon.xml</info>
-		<checksum>https://raw.githubusercontent.com/KODI-GROUP/skin.eminence.elad_guy.heb/master/addons.xml.md5</checksum>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Install skin.eminence.HE</summary>
-		<description>Download and install skin.eminence.HE</description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
 <addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="1.4.3" provider-name="MetalKettle">
 	<extension point="xbmc.addon.repository" name="MetalKettles Addon Repository">
 		<info compressed="false">http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml</info>
