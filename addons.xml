@@ -819,4 +819,16 @@ Don't be lazy Add Create and add your list to the group to be shared with everyo
         <description lang="en">Eminence is a skin that seeks simplicity, functionality, and customisability with a modern look</description>
     </extension>
 </addon>
+<addon id="repository.Kodi-Israel" name="Kodi-Israel Addon Repository" version="1.4.3" provider-name="Kodi-Israel Team">
+	<extension point="xbmc.addon.repository" name="Kodi-Israel Addon Repository">
+		<info compressed="false">http://raw.github.com/KODI-GROUP/Kodi-Israel/master/addons.xml</info>
+		<checksum>http://raw.github.com/KODI-GROUP/Kodi-Israel/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/KODI-GROUP/Kodi-Israel/master/repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Kodi Israel Addons</summary>
+		<description>Download and install addons from Kodi-Israel</description>
+		<platform>all</platform>
+	</extension>
+</addon>
 </addons>
